@@ -193,8 +193,8 @@ else
 	echo "Pilih Nama Client.ovpn"
 	read -p "Client name: " -e -i client CLIENT
 	echo ""
-	echo "Okay, that was all I needed. We are ready to setup your OpenVPN server now"
-	read -n1 -r -p "Press any key to continue..."
+	echo "Oke, OpenVPN Siap Untuk Di Instal..."
+	read -n1 -r -p "Tekan Apa Saja Untuk Melanjutkan....(Tekan Anu Juga Boleh :p)"
 		if [[ "$OS" = 'debian' ]]; then
 		apt-get update
 		apt-get install openvpn iptables openssl ca-certificates -y
