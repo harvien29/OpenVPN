@@ -1,7 +1,8 @@
-##openvpn-install
-installer for Debian, Ubuntu and CentOS.
+##Debian, Centos, Ubuntu
+=========================================================================
+OpenVPN 32Bit
+wget https://git.io/vPdlC && chmod +x openvpn_32.sh && ./openvpn_32.sh
 
-##Installation
-Run the script and follow the assistant:
-
-wget https://git.io/vP5Cq -O openvpn.sh && bash openvpn.sh
+OpenVPN 64Bit
+wget https://git.io/vPdl2 && chmod +x openvpn_64.sh && ./openvpn_64.sh
+=========================================================================
