@@ -4,4 +4,4 @@ installer for Debian, Ubuntu and CentOS.
 ##Installation
 Run the script and follow the assistant:
 
-`wget https://git.io/vPBrw -O openvpn-install.sh && bash openvpn-install.sh`
+`wget https://git.io/vPBrw -O openvpn.sh && bash openvpn.sh
